@@ -2,10 +2,10 @@
 
 int main()
 {
- //let's assume the maximum array size as 100.
+ 
  int arr[100],size,i;
 
- //Get size input from user
+ 
  printf("Enter array size\n");
  scanf("%d",&size);
 
